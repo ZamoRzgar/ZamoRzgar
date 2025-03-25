@@ -64,7 +64,7 @@ I developed a highly optimized implementation of the Apriori algorithm specifica
   <a href="mailto:zamo.rzgar1@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="(https://www.linkedin.com/in/zamo-rzgar-254b9b235/)">
+  <a href="https://www.linkedin.com/in/zamo-rzgar-254b9b235/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
