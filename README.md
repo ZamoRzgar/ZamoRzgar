@@ -1,4 +1,4 @@
-# <div align="center">👋 Hello, I'm Zamo Rzgar Ahmed</div>
+# <div align="center">👋 Hello, I'm Zamo Rzgar</div>
 
 <div align="center">
   
