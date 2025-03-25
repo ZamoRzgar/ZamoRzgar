@@ -4,8 +4,8 @@
   
 [![MSc Software Engineering](https://img.shields.io/badge/MSc-Software_Engineering-blue)](https://en.nankai.edu.cn/)
 [![Nankai University](https://img.shields.io/badge/Nankai-University-red)](https://en.nankai.edu.cn/)
-[![Data Mining](https://img.shields.io/badge/Data-Mining-green)](https://github.com/ZamoRzgar/basket-analysis)
-[![Machine Learning](https://img.shields.io/badge/Machine-Learning-yellow)](https://github.com/ZamoRzgar)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://github.com/ZamoRzgar/basket-analysis)
+[![AI](https://img.shields.io/badge/AI-5C2D91?logo=openai&logoColor=white)](https://github.com/ZamoRzgar)
 
 </div>
 
