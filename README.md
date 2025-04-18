@@ -33,6 +33,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Featured Projects
 
 <div align="center">
+   <a href="https://github.com/ZamoRzgar/R1-Omni">
   <a href="https://github.com/ZamoRzgar/basket-analysis">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZamoRzgar&repo=basket-analysis&theme=tokyonight&hide_border=true" />
   </a>
