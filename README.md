@@ -34,30 +34,11 @@
 
 <div align="center">
    <a href="https://github.com/ZamoRzgar/R1-Omni">
-  <a href="https://github.com/ZamoRzgar/basket-analysis">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZamoRzgar&repo=basket-analysis&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
-### 🛒 Hybrid Apriori Algorithm for Market Basket Analysis
 
-I developed a highly optimized implementation of the Apriori algorithm specifically designed for extremely sparse datasets:
-
-- **Challenge**: Analyzed a dataset where the most frequent item appears in only 0.42% of transactions
-- **Solution**: Implemented custom optimizations using efficient data structures and frequency-based sorting
-- **Results**: Discovered meaningful association rules with lift values 23-32 times higher than random chance
-- **Technologies**: Python, NumPy, Pandas, Matplotlib
-
-<details>
-<summary>📊 Key Findings</summary>
-<br>
-<ul>
-  <li>Successfully processed 34,070 transactions with 1,559 unique items</li>
-  <li>Discovered 6 frequent 2-itemsets despite extreme data sparsity</li>
-  <li>Generated 12 association rules with high confidence and lift values</li>
-  <li>Identified item 132 as the most connected item in the dataset</li>
-</ul>
-</details>
 
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="60"> Let's Connect!
 
