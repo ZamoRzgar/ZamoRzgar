@@ -59,49 +59,30 @@ I'm a **Software Engineer (MSc)** focused on **AI/ML**, **data science**, and **
 
 ## 🚀 Featured Projects
 
-<div align="center">
-  <!-- GitHub Readme Stats pin cards (commonly used; may rate-limit quietly) -->
-  <!-- Docs: anuraghazra/github-readme-stats -->
-  <a href="https://github.com/ZamoRzgar/R1-Omni">
-    <img
-      width="420"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=ZamoRzgar&repo=R1-Omni&theme=react&hide_border=true"
-      alt="R1-Omni"
-    />
-  </a>
-  <a href="https://github.com/ZamoRzgar/basket-analysis">
-    <img
-      width="420"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=ZamoRzgar&repo=basket-analysis&theme=react&hide_border=true"
-      alt="basket-analysis"
-    />
-  </a>
-</div>
+### [🤖 R1-Omni — Explainable Omni-Modal Emotion Recognition](https://github.com/ZamoRzgar/R1-Omni)
+Multimodal (video/audio/text) → fused reasoning → emotion classification with explainability. Built with PyTorch; uses efficient training loops and modular encoders.
 
-<details>
-<summary><b>R1-Omni — Explainable Omni-Modal Emotion Recognition</b></summary>
-
-- Multimodal (video/audio/text) → fused reasoning → emotion classification with explainability  
-- Built with PyTorch; uses efficient training loops and modular encoders
-</details>
-
-<details>
-<summary><b>Market Basket Analysis</b></summary>
-
-- 34k+ transactions; custom Apriori; association rules tuned for sparse datasets  
-- Clean pipeline, reproducible metrics/visuals
-</details>
+[![R1-Omni](https://img.shields.io/badge/View_Repository-R1--Omni-blue?style=for-the-badge&logo=github)](https://github.com/ZamoRzgar/R1-Omni)
 
 ---
 
-## 📊 Language Usage (auto)
-<p align="center">
-  <img
-    width="520"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZamoRzgar&layout=compact&langs_count=8&theme=react&hide_border=true"
-    alt="Top languages"
-  />
-</p>
+### [📊 Market Basket Analysis](https://github.com/ZamoRzgar/basket-analysis)
+34k+ transactions; custom Apriori; association rules tuned for sparse datasets. Clean pipeline, reproducible metrics/visuals.
+
+[![basket-analysis](https://img.shields.io/badge/View_Repository-Basket--Analysis-blue?style=for-the-badge&logo=github)](https://github.com/ZamoRzgar/basket-analysis)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZamoRzgar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZamoRzgar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZamoRzgar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
