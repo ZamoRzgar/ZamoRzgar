@@ -43,13 +43,13 @@ I'm a **Software Engineer (MSc)** focused on **AI/ML**, **data science**, and **
 
 ---
 
-## 🧰 Tech Stack (highlights)
+## 🧰 Tech Stack and Things I use (highlights)
 
 <!-- Skillicons: stable icon sprites; use simple query string -->
 <p align="center">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=py,anaconda,sklearn,pytorch,tensorflow,opencv,matlab,linux,git,github,js,ts,nodejs,react,nextjs,postgres,mongodb,redis,docker,aws,gcp,vscode&perline=11"
+      src="https://skillicons.dev/icons?i=py,vim,cpp,sklearn,pytorch,tensorflow,opencv,matlab,linux,git,github,js,ts,nodejs,react,nextjs,postgres,kotlin,redis,docker,gcp,java&perline=11"
       alt="My skills"
     />
   </a>
