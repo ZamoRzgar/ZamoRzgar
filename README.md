@@ -1,126 +1,141 @@
+<!--
+ROBUST PROFILE README (clean + stable)
+- Minimal HTML, mostly Markdown (renders reliably on GitHub)
+- Uses maintained services: capsule-render, readme-typing-svg (demolab), github-readme-stats, skillicons
+- If any external card/rate-limit fails, it just hides that image without breaking layout.
+-->
+
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Zamo%20Rzgar&fontSize=90&fontAlignY=38&fontColor=ffffff&desc=MSc%20Software%20Engineering%20%7C%20AI%20Enthusiast%20%7C%20Data%20Scientist&descAlignY=58" />
+  <!-- Header banner (Capsule Render) -->
+  <!-- Docs & generator: https://capsule-render.vercel.app -->
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Zamo%20Rzgar&fontSize=64&fontAlignY=36&fontColor=ffffff"
+    alt="Zamo Rzgar banner"
+  />
 
-<!-- Typing SVG (Working & Updated URL) -->
+  <!-- Typing SVG (Demolab host is the current, supported host) -->
+  <!-- Repo: DenverCoder1/readme-typing-svg -->
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=MSc+Software+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Data+Science+%26+Algorithms;Building+the+Future+with+Code"
+    alt="Typing introduction"
+  />
+
+  <!-- Quick badges (simple, no custom logos to avoid breakage) -->
+  <p>
+    <img src="https://img.shields.io/badge/MSc-Software_Engineering-4ECDC4?style=for-the-badge" alt="MSc Software Engineering" />
+    <img src="https://img.shields.io/badge/Nankai_University-45B7D1?style=for-the-badge" alt="Nankai University" />
+    <img src="https://img.shields.io/badge/Focus-AI_&_ML-9B59B6?style=for-the-badge" alt="AI and ML" />
+  </p>
+
+  <!-- Lightweight counters (safe fallbacks if rate-limited) -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=ZamoRzgar&style=for-the-badge&color=blueviolet" alt="Profile views" />
+    <img src="https://img.shields.io/github/followers/ZamoRzgar?style=for-the-badge&color=blue" alt="Followers" />
+  </p>
+</div>
+
+---
+
+## 👋 Hi, I’m Zamo
+
+I’m a **Software Engineer (MSc)** focused on **AI/ML**, **data science**, and **full-stack web**. I build practical systems and research prototypes—multimodal models, secure web apps, analytics tools—and I love open-source.
+
+---
+
+## 🧰 Tech Stack (highlights)
+
+<!-- Skillicons: stable icon sprites; use simple query string -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;MSc+Software+Engineering+Student+%F0%9F%8E%93;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Data+Science+%26+Algorithms+%F0%9F%93%8A;Building+the+Future+with+Code+%F0%9F%9A%80" alt="Typing Animation" />
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=py,anaconda,sklearn,pytorch,tensorflow,opencv,matlab,linux,git,github,js,ts,nodejs,react,nextjs,postgres,mongodb,redis,docker,aws,gcp,vscode&perline=11"
+      alt="My skills"
+    />
+  </a>
 </p>
 
-<!-- Badges -->
-<div align="center">
-  <img src="https://img.shields.io/badge/MSc-Software_Engineering-4ECDC4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Nankai_University-45B7D1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-AI_%26_ML-9B59B6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data-Science-26D0CE?style=for-the-badge" />
-</div>
-
-<br>
-
-<!-- Profile Stats -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZamoRzgar&style=for-the-badge&color=blueviolet" />
-  <img src="https://img.shields.io/github/followers/ZamoRzgar?style=for-the-badge&color=blue" />
-</div>
-
-</div>
-
 ---
 
-<!-- 🐍 Snake Animation (Updated & Working) -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
----
-
-## 🔥 Most Used Languages
-<div align="center">
-  <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZamoRzgar&theme=react&hide_border=true&layout=compact&langs_count=8&bg_color=0D1117&title_color=61dafb&text_color=c9d1d9" />
-</div>
-
----
-
-## 🧠 Technical Arsenal
-
-### 🐍 Python & Data Science
-<details>
-<summary><b>Show Skills</b></summary>
-<br>
+## 🚀 Featured Projects
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,sklearn,scipy,plotly,jupyter&perline=8" />
-</div>
-</details>
-
-### 🤖 AI & Machine Learning
-<details>
-<summary><b>Show Skills</b></summary>
-<br>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,keras&perline=8" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" />
-</div>
-</details>
-
-### 💻 Development & Tools
-<details>
-<summary><b>Show Skills</b></summary>
-<br>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,js,ts,git,docker,vscode&perline=10" />
-</div>
-</details>
-
-### 🗄️ Databases & Cloud
-<details>
-<summary><b>Show Skills</b></summary>
-<br>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,aws,gcp,azure&perline=10" />
-</div>
-</details>
-
----
-
-## 🚀 Featured Projects & Portfolio
-
-<div align="center">
+  <!-- GitHub Readme Stats pin cards (commonly used; may rate-limit quietly) -->
+  <!-- Docs: anuraghazra/github-readme-stats -->
   <a href="https://github.com/ZamoRzgar/R1-Omni">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ZamoRzgar&repo=R1-Omni&theme=react&hide_border=true" />
+    <img
+      width="420"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=ZamoRzgar&repo=R1-Omni&theme=react&hide_border=true"
+      alt="R1-Omni"
+    />
   </a>
   <a href="https://github.com/ZamoRzgar/basket-analysis">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ZamoRzgar&repo=basket-analysis&theme=react&hide_border=true" />
+    <img
+      width="420"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=ZamoRzgar&repo=basket-analysis&theme=react&hide_border=true"
+      alt="basket-analysis"
+    />
   </a>
 </div>
 
+<details>
+<summary><b>R1-Omni — Explainable Omni-Modal Emotion Recognition</b></summary>
+
+- Multimodal (video/audio/text) → fused reasoning → emotion classification with explainability  
+- Built with PyTorch; uses efficient training loops and modular encoders
+</details>
+
+<details>
+<summary><b>Market Basket Analysis</b></summary>
+
+- 34k+ transactions; custom Apriori; association rules tuned for sparse datasets  
+- Clean pipeline, reproducible metrics/visuals
+</details>
+
 ---
 
-## 🎓 Current Focus
+## 📊 Language Usage (auto)
+<p align="center">
+  <img
+    width="520"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZamoRzgar&layout=compact&langs_count=8&theme=react&hide_border=true"
+    alt="Top languages"
+  />
+</p>
+
+---
+
+## 🎯 Interests & Collab
+
+- 🤖 **AI/ML research** (agentic systems, multimodal models)  
+- 📊 **Analytics & insights** (feature engineering, evaluation)  
+- 🛠 **Open-source** (algorithms, tooling, DX)  
+- 🎓 **Academic work** (software engineering + AI)
+
+---
+
+## 📫 Contact
+
+| LinkedIn | Email | GitHub |
+|---|---|---|
+| <a href="https://www.linkedin.com/in/zamo-rzgar-254b9b235/">linkedin.com/in/zamo-rzgar-254b9b235</a> | <a href="mailto:zamo.rzgar1@gmail.com">zamo.rzgar1@gmail.com</a> | <a href="https://github.com/ZamoRzgar">github.com/ZamoRzgar</a> |
+
+---
+
+<!-- Optional: Snake animation (requires a workflow in your repo to generate the SVGs).
+     If you already have the workflow set up as per Platane/snk, uncomment the block below. -->
+
+<!--
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
+-->
 
 <div align="center">
-  
-```mermaid
-graph TD
-    A[MSc Software Engineering] --> B[AI Research]
-    B --> C[Deep Learning Systems]
-    B --> D[Multimodal Models]
-    A --> E[Data Science Projects]
-    E --> F[Analytics]
-    E --> G[Algorithm Optimization]
-```
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=32&fontColor=ffffff"
+    alt="Footer"
+  />
 </div>
-
-## 📬 Contact Me
-
-<div align="center">
-Professional	Email	GitHub
-<a href="https://www.linkedin.com/in/zamo-rzgar-254b9b235/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>	<a href="mailto:zamo.rzgar1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" /></a>	<a href="https://github.com/ZamoRzgar"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" /></a>
-</div>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontColor=fff" />
-⭐ If you enjoy my work, feel free to star my repositories!
-</div> ```
