@@ -37,13 +37,13 @@ ROBUST PROFILE README (clean + stable)
 
 ---
 
-## 👋 Hi, I'm Zamo
+##  Hi, I'm Zamo
 
 I'm a **Software Engineer (MSc)** focused on **AI/ML**, **data science**, and **full-stack web**. I build practical systems and research prototypes—multimodal models, secure web apps, analytics tools—and I love open-source.
 
 ---
 
-## 🧰 Tech Stack and Things I use (highlights)
+##  Tech Stack and Things I use (highlights)
 
 <!-- Skillicons: stable icon sprites; use simple query string -->
 <p align="center">
@@ -57,7 +57,7 @@ I'm a **Software Engineer (MSc)** focused on **AI/ML**, **data science**, and **
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### [🤖 R1-Omni — Explainable Omni-Modal Emotion Recognition](https://github.com/ZamoRzgar/R1-Omni)
 Multimodal (video/audio/text) → fused reasoning → emotion classification with explainability. Built with PyTorch; uses efficient training loops and modular encoders.
@@ -86,7 +86,7 @@ Multimodal (video/audio/text) → fused reasoning → emotion classification wit
 
 ---
 
-## 🎯 Interests & Collab
+##  Interests & Collab
 
 - 🤖 **AI/ML research** (agentic systems, multimodal models)  
 - 📊 **Analytics & insights** (feature engineering, evaluation)  
