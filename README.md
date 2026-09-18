@@ -39,7 +39,7 @@ ROBUST PROFILE README (clean + stable)
 
 ##  Hi, I'm Zamo
 
-I'm a **Software Engineer (MSc)** focused on **AI/ML**, **data science**, and **full-stack web**. I build practical systems and research prototypes—multimodal models, secure web apps, analytics tools—and I love open-source.
+I'm a **Software Engineer (PhD)** focused on **AI/ML**, **NLP, data science**, and **full-stack web**. I build practical systems and research prototypes—multimodal models, secure web apps, analytics tools—and I love open-source.
 
 ---
 
