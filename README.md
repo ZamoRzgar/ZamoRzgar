@@ -24,8 +24,9 @@ alt="Typing introduction"
 
 <!-- Quick badges (simple, no custom logos to avoid breakage) -->
 <p>
-<img src="https://img.shields.io/badge/MSc-Software_Engineering-4ECDC4?style=for-the-badge" alt="MSc Software Engineering" />
-<img src="https://img.shields.io/badge/Nankai_University-45B7D1?style=for-the-badge" alt="Nankai University" />
+<img src="https://img.shields.io/badge/PhD-Software_Engineering-4ECDC4?style=for-the-badge" alt="PhD Software Engineering" />
+<img src="https://img.shields.io/badge/MSc_Nankai_University-45B7D1?style=for-the-badge" alt=" MSc Nankai University" />
+<img src="https://img.shields.io/badge/Beihang_University-FF6B6B?style=for-the-badge" alt="Beihang University" />
 <img src="https://img.shields.io/badge/Focus-AI_%26_ML-9B59B6?style=for-the-badge" alt="AI and ML" />
 </p>
 
